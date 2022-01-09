@@ -10,3 +10,4 @@ web page project featuring both desktop and mobile design layout
 -CSS with CSS3 properties
 -Flexbox
 -Grid CSS
+-Vanilla Javascript
