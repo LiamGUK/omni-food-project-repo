@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/567bf082-84be-4a25-bdee-2e515f153e53/deploy-status?branch=main)](https://app.netlify.com/sites/omnifood-liam-learn-build/deploys)
+
 # omni food project
 
 Responsive project - Omnifood site
